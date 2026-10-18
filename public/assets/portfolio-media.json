@@ -1,0 +1,634 @@
+{
+  "crowdBackgrounds": [
+    "assets/crowd/Dustbound%20Taverna%20Costera%207-3-26-19.webp",
+    "assets/crowd/Human%20Ant%20Farm%20Hola%20Habibi%206-17-26-5.webp",
+    "assets/crowd/Appleseed%20Hola%20Habibi%204-24-26-26.webp",
+    "assets/crowd/Paranoid%20Time%20Remorse%20Skate%20Shop%208-14-26-8.webp"
+  ],
+  "portfolios": {
+    "carlos-h": {
+      "name": "Carlos H.",
+      "images": [
+        {
+          "src": "assets/photography/carlos/web/Rhaina%20Yasmin%20Brooklyn%20Bowl%204-28-26-31.webp",
+          "fullSrc": "assets/photography/carlos/Rhaina%20Yasmin%20Brooklyn%20Bowl%204-28-26-31.jpg",
+          "alt": "Rhaina Yasmin Brooklyn Bowl \u2014 live event photograph by Carlos H.",
+          "caption": "Rhaina Yasmin Brooklyn Bowl",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Quit%20Yer%20Whinin%20Remorse%20Skate%20Shop%208-14-26-23.webp",
+          "fullSrc": "assets/photography/carlos/Quit%20Yer%20Whinin%20Remorse%20Skate%20Shop%208-14-26-23.jpg",
+          "alt": "Quit Yer Whinin Remorse Skate Shop \u2014 live event photograph by Carlos H.",
+          "caption": "Quit Yer Whinin Remorse Skate Shop",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Iris%20and%20The%20Shade%20Griffin%209-27-25-18.webp",
+          "fullSrc": "assets/photography/carlos/Iris%20and%20The%20Shade%20Griffin%209-27-25-18.jpg",
+          "alt": "Iris and The Shade Griffin \u2014 live event photograph by Carlos H.",
+          "caption": "Iris and The Shade Griffin",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Grandmaster%20Dustland%20Bar%209-7-26-18.webp",
+          "fullSrc": "assets/photography/carlos/Grandmaster%20Dustland%20Bar%209-7-26-18.jpg",
+          "alt": "Grandmaster Dustland Bar \u2014 live event photograph by Carlos H.",
+          "caption": "Grandmaster Dustland Bar",
+          "width": 6048,
+          "height": 4024
+        },
+        {
+          "src": "assets/photography/carlos/web/Hap%20Hazard%20Voodoo%20Brewery%206-30-25-15.webp",
+          "fullSrc": "assets/photography/carlos/Hap%20Hazard%20Voodoo%20Brewery%206-30-25-15.jpg",
+          "alt": "Hap Hazard Voodoo Brewery \u2014 live event photograph by Carlos H.",
+          "caption": "Hap Hazard Voodoo Brewery",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Lina%20Rhena%20The%20Space%209-21-26-7.webp",
+          "fullSrc": "assets/photography/carlos/Lina%20Rhena%20The%20Space%209-21-26-7.jpg",
+          "alt": "Lina Rhena The Space \u2014 live event photograph by Carlos H.",
+          "caption": "Lina Rhena The Space",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/My%20Lover_s%20Ichor%20Taverna%20Costera%205-11-25-06.webp",
+          "fullSrc": "assets/photography/carlos/My%20Lover_s%20Ichor%20Taverna%20Costera%205-11-25-06.jpg",
+          "alt": "My Lover\u2019s Ichor Taverna Costera \u2014 live event photograph by Carlos H.",
+          "caption": "My Lover\u2019s Ichor Taverna Costera",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Dustbound%20Taverna%20Costera%207-3-26-19.webp",
+          "fullSrc": "assets/photography/carlos/Dustbound%20Taverna%20Costera%207-3-26-19.jpg",
+          "alt": "Dustbound Taverna Costera \u2014 live event photograph by Carlos H.",
+          "caption": "Dustbound Taverna Costera",
+          "width": 6048,
+          "height": 4024
+        },
+        {
+          "src": "assets/photography/carlos/web/Pitch%20After%20Dark%20Remorse%20Skate%20Shop%208-14-26-15.webp",
+          "fullSrc": "assets/photography/carlos/Pitch%20After%20Dark%20Remorse%20Skate%20Shop%208-14-26-15.jpg",
+          "alt": "Pitch After Dark Remorse Skate Shop \u2014 live event photograph by Carlos H.",
+          "caption": "Pitch After Dark Remorse Skate Shop",
+          "width": 6048,
+          "height": 4024
+        },
+        {
+          "src": "assets/photography/carlos/web/Quit%20Yer%20Whinin%20Remorse%20Skate%20Shop%208-14-26-15.webp",
+          "fullSrc": "assets/photography/carlos/Quit%20Yer%20Whinin%20Remorse%20Skate%20Shop%208-14-26-15.jpg",
+          "alt": "Quit Yer Whinin Remorse Skate Shop \u2014 live event photograph by Carlos H.",
+          "caption": "Quit Yer Whinin Remorse Skate Shop",
+          "width": 3868,
+          "height": 5814
+        },
+        {
+          "src": "assets/photography/carlos/web/Marianna%20Arteaga%20The%20Space%209-21-26-4.webp",
+          "fullSrc": "assets/photography/carlos/Marianna%20Arteaga%20The%20Space%209-21-26-4.jpg",
+          "alt": "Marianna Arteaga The Space \u2014 live event photograph by Carlos H.",
+          "caption": "Marianna Arteaga The Space",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Jesus%20Christ%20Taxi%20Driver%20Red%20Dwarf%2011-13-25-01.webp",
+          "fullSrc": "assets/photography/carlos/Jesus%20Christ%20Taxi%20Driver%20Red%20Dwarf%2011-13-25-01.jpg",
+          "alt": "Jesus Christ Taxi Driver Red Dwarf \u2014 live event photograph by Carlos H.",
+          "caption": "Jesus Christ Taxi Driver Red Dwarf",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Same%20Sun%20Here%20Swan%20Dive%205-23-25-06.webp",
+          "fullSrc": "assets/photography/carlos/Same%20Sun%20Here%20Swan%20Dive%205-23-25-06.jpg",
+          "alt": "Same Sun Here Swan Dive \u2014 live event photograph by Carlos H.",
+          "caption": "Same Sun Here Swan Dive",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/The%20X-Flowers%20Voodoo%20Brewery%2010-18-25-21.webp",
+          "fullSrc": "assets/photography/carlos/The%20X-Flowers%20Voodoo%20Brewery%2010-18-25-21.jpg",
+          "alt": "The X-Flowers Voodoo Brewery \u2014 live event photograph by Carlos H.",
+          "caption": "The X-Flowers Voodoo Brewery",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Charlotte%20Nichols%20The%20Space%209-21-26-5.webp",
+          "fullSrc": "assets/photography/carlos/Charlotte%20Nichols%20The%20Space%209-21-26-5.jpg",
+          "alt": "Charlotte Nichols The Space \u2014 live event photograph by Carlos H.",
+          "caption": "Charlotte Nichols The Space",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Rhaina%20Yasmin%20Brooklyn%20Bowl%204-28-26-30.webp",
+          "fullSrc": "assets/photography/carlos/Rhaina%20Yasmin%20Brooklyn%20Bowl%204-28-26-30.jpg",
+          "alt": "Rhaina Yasmin Brooklyn Bowl \u2014 live event photograph by Carlos H.",
+          "caption": "Rhaina Yasmin Brooklyn Bowl",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Ovis%20Remorse%20Skate%20Shop%208-14-26-9.webp",
+          "fullSrc": "assets/photography/carlos/Ovis%20Remorse%20Skate%20Shop%208-14-26-9.jpg",
+          "alt": "Ovis Remorse Skate Shop \u2014 live event photograph by Carlos H.",
+          "caption": "Ovis Remorse Skate Shop",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Carly%20Salway%20The%20Space%209-21-26-5.webp",
+          "fullSrc": "assets/photography/carlos/Carly%20Salway%20The%20Space%209-21-26-5.jpg",
+          "alt": "Carly Salway The Space \u2014 live event photograph by Carlos H.",
+          "caption": "Carly Salway The Space",
+          "width": 6048,
+          "height": 4024
+        },
+        {
+          "src": "assets/photography/carlos/web/Waltzerr%20Red%20Dwarf%209-26-26-13.webp",
+          "fullSrc": "assets/photography/carlos/Waltzerr%20Red%20Dwarf%209-26-26-13.jpg",
+          "alt": "Waltzerr Red Dwarf \u2014 live event photograph by Carlos H.",
+          "caption": "Waltzerr Red Dwarf",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Davvn%20Swan%20Dive%209-17-26-15.webp",
+          "fullSrc": "assets/photography/carlos/Davvn%20Swan%20Dive%209-17-26-15.jpg",
+          "alt": "Davvn Swan Dive \u2014 live event photograph by Carlos H.",
+          "caption": "Davvn Swan Dive",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Muertos%20Heist%20Remorse%20Skate%20Shop%208-14-26-11.webp",
+          "fullSrc": "assets/photography/carlos/Muertos%20Heist%20Remorse%20Skate%20Shop%208-14-26-11.jpg",
+          "alt": "Muertos Heist Remorse Skate Shop \u2014 live event photograph by Carlos H.",
+          "caption": "Muertos Heist Remorse Skate Shop",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Human%20Ant%20Farm%20Hola%20Habibi%206-17-26-5.webp",
+          "fullSrc": "assets/photography/carlos/Human%20Ant%20Farm%20Hola%20Habibi%206-17-26-5.jpg",
+          "alt": "Human Ant Farm Hola Habibi \u2014 live event photograph by Carlos H.",
+          "caption": "Human Ant Farm Hola Habibi",
+          "width": 5959,
+          "height": 3965
+        },
+        {
+          "src": "assets/photography/carlos/web/Human%20Ant%20Farm%20Hola%20Habibi%206-17-26-12.webp",
+          "fullSrc": "assets/photography/carlos/Human%20Ant%20Farm%20Hola%20Habibi%206-17-26-12.jpg",
+          "alt": "Human Ant Farm Hola Habibi \u2014 live event photograph by Carlos H.",
+          "caption": "Human Ant Farm Hola Habibi",
+          "width": 6048,
+          "height": 4024
+        },
+        {
+          "src": "assets/photography/carlos/web/Field%20Fox%20Red%20Dwarf%209-26-26-5.webp",
+          "fullSrc": "assets/photography/carlos/Field%20Fox%20Red%20Dwarf%209-26-26-5.jpg",
+          "alt": "Field Fox Red Dwarf \u2014 live event photograph by Carlos H.",
+          "caption": "Field Fox Red Dwarf",
+          "width": 5964,
+          "height": 3968
+        },
+        {
+          "src": "assets/photography/carlos/web/Joobilee%20Rangel%20Boxing%203-8-25-06.webp",
+          "fullSrc": "assets/photography/carlos/Joobilee%20Rangel%20Boxing%203-8-25-06.jpg",
+          "alt": "Joobilee Rangel Boxing \u2014 live event photograph by Carlos H.",
+          "caption": "Joobilee Rangel Boxing",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Washed%20Taverna%20Costera%203-22-26-2.webp",
+          "fullSrc": "assets/photography/carlos/Washed%20Taverna%20Costera%203-22-26-2.jpg",
+          "alt": "Washed Taverna Costera \u2014 live event photograph by Carlos H.",
+          "caption": "Washed Taverna Costera",
+          "width": 6048,
+          "height": 4024
+        },
+        {
+          "src": "assets/photography/carlos/web/Grandmaster%20Dustland%20Bar%209-7-26-20.webp",
+          "fullSrc": "assets/photography/carlos/Grandmaster%20Dustland%20Bar%209-7-26-20.jpg",
+          "alt": "Grandmaster Dustland Bar \u2014 live event photograph by Carlos H.",
+          "caption": "Grandmaster Dustland Bar",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Quit%20Yer%20Whinin%20Remorse%20Skate%20Shop%208-14-26-13.webp",
+          "fullSrc": "assets/photography/carlos/Quit%20Yer%20Whinin%20Remorse%20Skate%20Shop%208-14-26-13.jpg",
+          "alt": "Quit Yer Whinin Remorse Skate Shop \u2014 live event photograph by Carlos H.",
+          "caption": "Quit Yer Whinin Remorse Skate Shop",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Eye%20Might%20Clay%20Paper%20Ink%206-1-26-9.webp",
+          "fullSrc": "assets/photography/carlos/Eye%20Might%20Clay%20Paper%20Ink%206-1-26-9.jpg",
+          "alt": "Eye Might Clay Paper Ink \u2014 live event photograph by Carlos H.",
+          "caption": "Eye Might Clay Paper Ink",
+          "width": 3569,
+          "height": 5364
+        },
+        {
+          "src": "assets/photography/carlos/web/Davvn%20Swan%20Dive%209-17-26-21.webp",
+          "fullSrc": "assets/photography/carlos/Davvn%20Swan%20Dive%209-17-26-21.jpg",
+          "alt": "Davvn Swan Dive \u2014 live event photograph by Carlos H.",
+          "caption": "Davvn Swan Dive",
+          "width": 6048,
+          "height": 4024
+        },
+        {
+          "src": "assets/photography/carlos/web/Paranoid%20Time%20Remorse%20Skate%20Shop%208-14-26-7.webp",
+          "fullSrc": "assets/photography/carlos/Paranoid%20Time%20Remorse%20Skate%20Shop%208-14-26-7.jpg",
+          "alt": "Paranoid Time Remorse Skate Shop \u2014 live event photograph by Carlos H.",
+          "caption": "Paranoid Time Remorse Skate Shop",
+          "width": 5900,
+          "height": 3926
+        },
+        {
+          "src": "assets/photography/carlos/web/Appleseed%20Hola%20Habibi%204-24-26-26.webp",
+          "fullSrc": "assets/photography/carlos/Appleseed%20Hola%20Habibi%204-24-26-26.jpg",
+          "alt": "Appleseed Hola Habibi \u2014 live event photograph by Carlos H.",
+          "caption": "Appleseed Hola Habibi",
+          "width": 6048,
+          "height": 4024
+        },
+        {
+          "src": "assets/photography/carlos/web/Carly%20Salway%20The%20Space%209-21-26-9.webp",
+          "fullSrc": "assets/photography/carlos/Carly%20Salway%20The%20Space%209-21-26-9.jpg",
+          "alt": "Carly Salway The Space \u2014 live event photograph by Carlos H.",
+          "caption": "Carly Salway The Space",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Quit%20Yer%20Whinin%20Remorse%20Skate%20Shop%208-14-26-12.webp",
+          "fullSrc": "assets/photography/carlos/Quit%20Yer%20Whinin%20Remorse%20Skate%20Shop%208-14-26-12.jpg",
+          "alt": "Quit Yer Whinin Remorse Skate Shop \u2014 live event photograph by Carlos H.",
+          "caption": "Quit Yer Whinin Remorse Skate Shop",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Grandmaster%20Dustland%20Bar%209-7-26-27.webp",
+          "fullSrc": "assets/photography/carlos/Grandmaster%20Dustland%20Bar%209-7-26-27.jpg",
+          "alt": "Grandmaster Dustland Bar \u2014 live event photograph by Carlos H.",
+          "caption": "Grandmaster Dustland Bar",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Paranoid%20Time%20Remorse%20Skate%20Shop%208-14-26-8.webp",
+          "fullSrc": "assets/photography/carlos/Paranoid%20Time%20Remorse%20Skate%20Shop%208-14-26-8.jpg",
+          "alt": "Paranoid Time Remorse Skate Shop \u2014 live event photograph by Carlos H.",
+          "caption": "Paranoid Time Remorse Skate Shop",
+          "width": 5647,
+          "height": 3757
+        },
+        {
+          "src": "assets/photography/carlos/web/Field%20Fox%20Red%20Dwarf%209-26-26-18.webp",
+          "fullSrc": "assets/photography/carlos/Field%20Fox%20Red%20Dwarf%209-26-26-18.jpg",
+          "alt": "Field Fox Red Dwarf \u2014 live event photograph by Carlos H.",
+          "caption": "Field Fox Red Dwarf",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Juniper%20Kills%20Taverna%20Costera%203-14-26-4.webp",
+          "fullSrc": "assets/photography/carlos/Juniper%20Kills%20Taverna%20Costera%203-14-26-4.jpg",
+          "alt": "Juniper Kills Taverna Costera \u2014 live event photograph by Carlos H.",
+          "caption": "Juniper Kills Taverna Costera",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Snarl%20Rangels%205-25-25-04.webp",
+          "fullSrc": "assets/photography/carlos/Snarl%20Rangels%205-25-25-04.jpg",
+          "alt": "Snarl Rangels \u2014 live event photograph by Carlos H.",
+          "caption": "Snarl Rangels",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Shlow%20The%20Space%209-21-26-14.webp",
+          "fullSrc": "assets/photography/carlos/Shlow%20The%20Space%209-21-26-14.jpg",
+          "alt": "Shlow The Space \u2014 live event photograph by Carlos H.",
+          "caption": "Shlow The Space",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Charlotte%20Nichols%20The%20Space%209-21-26-6.webp",
+          "fullSrc": "assets/photography/carlos/Charlotte%20Nichols%20The%20Space%209-21-26-6.jpg",
+          "alt": "Charlotte Nichols The Space \u2014 live event photograph by Carlos H.",
+          "caption": "Charlotte Nichols The Space",
+          "width": 4024,
+          "height": 6048
+        },
+        {
+          "src": "assets/photography/carlos/web/Pitch%20After%20Dark%20Remorse%20Skate%20Shop%208-14-26-5.webp",
+          "fullSrc": "assets/photography/carlos/Pitch%20After%20Dark%20Remorse%20Skate%20Shop%208-14-26-5.jpg",
+          "alt": "Pitch After Dark Remorse Skate Shop \u2014 live event photograph by Carlos H.",
+          "caption": "Pitch After Dark Remorse Skate Shop",
+          "width": 6048,
+          "height": 4024
+        },
+        {
+          "src": "assets/photography/carlos/web/Shlow%20The%20Space%209-21-26-9.webp",
+          "fullSrc": "assets/photography/carlos/Shlow%20The%20Space%209-21-26-9.jpg",
+          "alt": "Shlow The Space \u2014 live event photograph by Carlos H.",
+          "caption": "Shlow The Space",
+          "width": 3886,
+          "height": 5840
+        },
+        {
+          "src": "assets/photography/carlos/web/Davvn%20Swan%20Dive%209-17-26-11.webp",
+          "fullSrc": "assets/photography/carlos/Davvn%20Swan%20Dive%209-17-26-11.jpg",
+          "alt": "Davvn Swan Dive \u2014 live event photograph by Carlos H.",
+          "caption": "Davvn Swan Dive",
+          "width": 4024,
+          "height": 6048
+        }
+      ]
+    },
+    "connor-f": {
+      "name": "Connor F.",
+      "images": [
+        {
+          "src": "assets/photography/connor/web/DSC_4372.webp",
+          "fullSrc": "assets/photography/connor/DSC_4372.jpeg",
+          "alt": "Black-and-white photograph of a musician seated onstage holding a bass guitar \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 5568,
+          "height": 3712
+        },
+        {
+          "src": "assets/photography/connor/web/DSC_4536.webp",
+          "fullSrc": "assets/photography/connor/DSC_4536.jpeg",
+          "alt": "Black-and-white photograph of a band performing on an outdoor stage \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 5568,
+          "height": 3712
+        },
+        {
+          "src": "assets/photography/connor/web/DSC_4152.webp",
+          "fullSrc": "assets/photography/connor/DSC_4152.jpeg",
+          "alt": "Black-and-white photograph of a drummer performing outdoors \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 5568,
+          "height": 3712
+        },
+        {
+          "src": "assets/photography/connor/web/IMG_2966_jpg.webp",
+          "fullSrc": "assets/photography/connor/IMG_2966_jpg.jpg",
+          "alt": "Guitarist performing under orange stage lighting \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "src": "assets/photography/connor/web/IMG_2950.webp",
+          "fullSrc": "assets/photography/connor/IMG_2950.jpg",
+          "alt": "Guitarist performing under blue and purple stage lighting \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "src": "assets/photography/connor/web/DSC_5246.webp",
+          "fullSrc": "assets/photography/connor/DSC_5246.jpeg",
+          "alt": "Black-and-white photograph of a guitarist performing beside the crowd \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 5568,
+          "height": 3712
+        },
+        {
+          "src": "assets/photography/connor/web/DSC_4157.webp",
+          "fullSrc": "assets/photography/connor/DSC_4157.jpeg",
+          "alt": "Black-and-white photograph of a guitarist wearing a wide-brimmed hat onstage \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 3712,
+          "height": 5568
+        },
+        {
+          "src": "assets/photography/connor/web/IMG_4601.webp",
+          "fullSrc": "assets/photography/connor/IMG_4601.JPG",
+          "alt": "Collage of live performance photographs \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "assets/photography/connor/web/IMG_4606.webp",
+          "fullSrc": "assets/photography/connor/IMG_4606.JPG",
+          "alt": "Collage of live performance photographs \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "assets/photography/connor/web/IMG_4607.webp",
+          "fullSrc": "assets/photography/connor/IMG_4607.JPG",
+          "alt": "Collage of live performance photographs \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "assets/photography/connor/web/IMG_4603.webp",
+          "fullSrc": "assets/photography/connor/IMG_4603.JPG",
+          "alt": "Collage of live performance photographs \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "assets/photography/connor/web/IMG_4608.webp",
+          "fullSrc": "assets/photography/connor/IMG_4608.JPG",
+          "alt": "Collage of live performance photographs \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "assets/photography/connor/web/IMG_4599.webp",
+          "fullSrc": "assets/photography/connor/IMG_4599.JPG",
+          "alt": "Collage of live performance photographs \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "assets/photography/connor/web/IMG_4600.webp",
+          "fullSrc": "assets/photography/connor/IMG_4600.JPG",
+          "alt": "Collage of live performance photographs \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "assets/photography/connor/web/IMG_4604.webp",
+          "fullSrc": "assets/photography/connor/IMG_4604.JPG",
+          "alt": "Collage of live performance photographs \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "assets/photography/connor/web/IMG_4602.webp",
+          "fullSrc": "assets/photography/connor/IMG_4602.JPG",
+          "alt": "Collage of live performance photographs \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "assets/photography/connor/web/IMG_4605.webp",
+          "fullSrc": "assets/photography/connor/IMG_4605.JPG",
+          "alt": "Collage of live performance photographs \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "src": "assets/photography/connor/web/IMG_6643.webp",
+          "fullSrc": "assets/photography/connor/IMG_6643.jpg",
+          "alt": "Crowd gathered at an outdoor show under warm lighting \u2014 photography by Connor F.",
+          "caption": "Photography by Connor F.",
+          "width": 3024,
+          "height": 4032
+        }
+      ]
+    },
+    "skylar-s": {
+      "name": "Skylar S.",
+      "images": [
+        {
+          "src": "assets/photography/skylar/web/Skylar%20Sanchez-12.webp",
+          "fullSrc": "assets/photography/skylar/Skylar%20Sanchez-12.jpg",
+          "alt": "Vocalist holding a microphone under red-orange stage lighting \u2014 photography by Skylar S.",
+          "caption": "Photography by Skylar S.",
+          "width": 4000,
+          "height": 5328
+        },
+        {
+          "src": "assets/photography/skylar/web/Skylar%20Sanchez-11.webp",
+          "fullSrc": "assets/photography/skylar/Skylar%20Sanchez-11.jpg",
+          "alt": "Performers and audience at an intimate indoor live show \u2014 photography by Skylar S.",
+          "caption": "Photography by Skylar S.",
+          "width": 5328,
+          "height": 4000
+        },
+        {
+          "src": "assets/photography/skylar/web/Skylar%20Sanchez-10.webp",
+          "fullSrc": "assets/photography/skylar/Skylar%20Sanchez-10.jpg",
+          "alt": "Audience members raising their hands at a live show \u2014 photography by Skylar S.",
+          "caption": "Photography by Skylar S.",
+          "width": 4000,
+          "height": 5328
+        },
+        {
+          "src": "assets/photography/skylar/web/Skylar%20Sanchez-14.webp",
+          "fullSrc": "assets/photography/skylar/Skylar%20Sanchez-14.jpg",
+          "alt": "Musician wearing a guitar strap at a live event \u2014 photography by Skylar S.",
+          "caption": "Photography by Skylar S.",
+          "width": 1376,
+          "height": 1824
+        },
+        {
+          "src": "assets/photography/skylar/web/Skylar%20Sanchez-13.webp",
+          "fullSrc": "assets/photography/skylar/Skylar%20Sanchez-13.jpg",
+          "alt": "Guitarist playing an electric guitar indoors \u2014 photography by Skylar S.",
+          "caption": "Photography by Skylar S.",
+          "width": 4000,
+          "height": 5328
+        },
+        {
+          "src": "assets/photography/skylar/web/Skylar%20Sanchez-09.webp",
+          "fullSrc": "assets/photography/skylar/Skylar%20Sanchez-09.jpg",
+          "alt": "Singer performing into a microphone under orange light \u2014 photography by Skylar S.",
+          "caption": "Photography by Skylar S.",
+          "width": 4000,
+          "height": 5328
+        },
+        {
+          "src": "assets/photography/skylar/web/Skylar%20Sanchez-08.webp",
+          "fullSrc": "assets/photography/skylar/Skylar%20Sanchez-08.jpg",
+          "alt": "Band performing among an audience at a live show \u2014 photography by Skylar S.",
+          "caption": "Photography by Skylar S.",
+          "width": 5328,
+          "height": 4000
+        },
+        {
+          "src": "assets/photography/skylar/web/Skylar%20Sanchez-07.webp",
+          "fullSrc": "assets/photography/skylar/Skylar%20Sanchez-07.jpg",
+          "alt": "Vocalist holding a microphone at an intimate show \u2014 photography by Skylar S.",
+          "caption": "Photography by Skylar S.",
+          "width": 4000,
+          "height": 5328
+        },
+        {
+          "src": "assets/photography/skylar/web/Skylar%20Sanchez-06.webp",
+          "fullSrc": "assets/photography/skylar/Skylar%20Sanchez-06.jpg",
+          "alt": "Guitarist performing with audience members close to the stage \u2014 photography by Skylar S.",
+          "caption": "Photography by Skylar S.",
+          "width": 4000,
+          "height": 5328
+        },
+        {
+          "src": "assets/photography/skylar/web/Skylar%20Sanchez-04.webp",
+          "fullSrc": "assets/photography/skylar/Skylar%20Sanchez-04.jpg",
+          "alt": "Musician playing a white electric guitar indoors \u2014 photography by Skylar S.",
+          "caption": "Photography by Skylar S.",
+          "width": 4000,
+          "height": 5328
+        },
+        {
+          "src": "assets/photography/skylar/web/Skylar%20Sanchez-03.webp",
+          "fullSrc": "assets/photography/skylar/Skylar%20Sanchez-03.jpg",
+          "alt": "Guitarist performing with a white electric guitar \u2014 photography by Skylar S.",
+          "caption": "Photography by Skylar S.",
+          "width": 4000,
+          "height": 5328
+        },
+        {
+          "src": "assets/photography/skylar/web/Skylar%20Sanchez-02.webp",
+          "fullSrc": "assets/photography/skylar/Skylar%20Sanchez-02.jpg",
+          "alt": "Singer playing a white electric guitar at a live show \u2014 photography by Skylar S.",
+          "caption": "Photography by Skylar S.",
+          "width": 4000,
+          "height": 5328
+        },
+        {
+          "src": "assets/photography/skylar/web/Skylar%20Sanchez-05.webp",
+          "fullSrc": "assets/photography/skylar/Skylar%20Sanchez-05.jpg",
+          "alt": "Audience members gathered in the floor space at an indoor show \u2014 photography by Skylar S.",
+          "caption": "Photography by Skylar S.",
+          "width": 5328,
+          "height": 4000
+        },
+        {
+          "src": "assets/photography/skylar/web/Skylar%20Sanchez-01.webp",
+          "fullSrc": "assets/photography/skylar/Skylar%20Sanchez-01.jpg",
+          "alt": "Vocalist leaning forward with a microphone during a live show \u2014 photography by Skylar S.",
+          "caption": "Photography by Skylar S.",
+          "width": 4000,
+          "height": 5328
+        }
+      ]
+    }
+  },
+  "clips": []
+}
