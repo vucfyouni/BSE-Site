@@ -1,6 +1,6 @@
 # Blank Slate Entertainment
 
-BSE's public marketing site, photographer portfolios, starting-quote calculator, private team applications and approved-crew show board.
+BSE's public marketing site, photographer portfolios, starting-quote calculator, private team applications. The crew portal is currently removed.
 
 Production: https://blank-slate-entertainment.readyray14.chatgpt.site
 
@@ -10,13 +10,13 @@ Production: https://blank-slate-entertainment.readyray14.chatgpt.site
 
 GitHub contains the complete source. The backend runs on Sites; GitHub Pages alone cannot run the crew service. Do not reuse this project's hosting identity for an unrelated site.
 
-## Crew portal and applications
+## Team applications
 
-Marketing pages are public. Applications and crew access use ChatGPT sign-in through Sites. New applicants must confirm they are 18 or older and upload a PDF, JPEG, PNG or WebP portfolio, up to 8 MB. Uploads are private to their applicant and administrators.
+Marketing pages are public. Applications use ChatGPT sign-in through Sites. Applicants must confirm they are 18 or older and upload a PDF, JPEG, PNG or WebP portfolio, up to 8 MB. Uploads are private to their applicant and administrators. Applicants can check their status on the Join the team page.
 
-The server-only `ADMIN_EMAILS` runtime setting contains comma-separated verified administrator emails. Configure it in Sites settings, never in frontend files or committed environment files. Sign in to `/crew-portal.html` with an administrator account to review applications, approve crew disciplines, post approved shows with limited photo/video slots, close shows and revoke access. Approved crew can accept or release one eligible slot per show. Pending and revoked accounts cannot access the show board.
+The crew portal page, navigation, show-management and crew-membership endpoints have been removed for now. Existing database records are retained privately for possible future restoration; no records were deleted. The server-only `ADMIN_EMAILS` runtime setting still authorizes private application review and portfolio access. There is currently no administrator dashboard.
 
-Authorization uses Sites-provided identity headers, server-side membership checks and same-origin writes. SQL is parameterized; slot acceptance is atomic; portfolio downloads require applicant or administrator access. Do not expose the Worker directly outside the trusted Sites identity gateway.
+Authorization uses Sites-provided identity headers and same-origin writes. SQL is parameterized and portfolio downloads require applicant or administrator access. Do not expose the Worker directly outside the trusted Sites identity gateway.
 
 ## Pricing
 
@@ -44,7 +44,7 @@ npm start -- --port 8788 --var ADMIN_EMAILS:owner@example.test
 
 Local D1/R2 state stays in ignored `.wrangler/`. For browser interaction tests only, local requests may supply the trusted identity headers; production identity must come from Sites. Never publish test identities or local state. `npm run dev` is also available for development. Schema changes belong in `db/schema.ts`; run `npm run db:generate` and commit each generated migration. The Sites plugin includes migrations in the build artifact for deployment.
 
-`npm test` runs security and workflow tests against actual SQLite with an R2 test adapter. Additional browser verification covered responsive pages, quote thresholds and email content, and application → admin approval → crew acceptance/release against a locally built Worker with D1/R2.
+`npm test` runs security and workflow tests against actual SQLite with an R2 test adapter. The original browser verification covered responsive pages, quote thresholds, email content and private applications. Removal checks verify that crew endpoints are unavailable even to administrators.
 
 ## Media and feeds
 
