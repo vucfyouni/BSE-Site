@@ -1,11 +1,5 @@
-node_modules/
-source-media/
-.wrangler/
-.vinext/
-.sites-runtime/
+bse-private/
+*.log
+*.zip
 .env
 .env.*
-!.env.example
-dist/
-.next/
-*.tsbuildinfo

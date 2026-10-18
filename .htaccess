@@ -1,0 +1,10 @@
+Options -Indexes
+DirectoryIndex index.html
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTPS} !=on
+    RewriteRule ^ https://blankslatelv.com%{REQUEST_URI} [R=302,L]
+</IfModule>
+<FilesMatch "^(application-config\.php|\.user\.ini|README\.md)$">
+    Require all denied
+</FilesMatch>
